@@ -3,8 +3,12 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .mypy_cache/
+lobe-icons/
+icon-mapping.md
 
 # Generated artifacts
+font/
+icons/
 out/
 *.patched.ttf
 *.patched.otf
