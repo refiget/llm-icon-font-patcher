@@ -6,9 +6,43 @@ Patch SVG icons into a TrueType / OpenType font at a specific Unicode codepoint.
 
 ## Preview
 
-| tmux bar | Terminal output |
-| --- | --- |
-| ![tmux bar](assets/image-20260503175403630.png) | ![terminal output](assets/image-20260503175929610.png) |
+Patch LLM provider icons into your coding font and use them throughout your terminal workflow.
+
+### Icon Gallery
+
+All 26 patched icons at a glance — rendered inside a patched coding font. Works in both dark and light terminal themes.
+
+| Dark Theme | Light Theme |
+|:---:|:---:|
+| <img src="assets/iShot_2026-05-04_02.18.05.png" width="460"> | <img src="assets/iShot_2026-05-04_02.17.53.png" width="460"> |
+
+### Tmux Status Bar
+
+Track real-time API spend per model with patched icons directly in your status bar.
+
+<p align="center">
+  <img src="assets/iShot_2026-05-04_02.04.41.png" alt="Tmux Status Bar - Dark Theme" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/iShot_2026-05-03_22.03.04.png" alt="Tmux Status Bar - Light Theme" width="700">
+</p>
+
+### Model Selector
+
+Use patched icons in interactive TUIs for quick provider switching.
+
+<p align="center">
+  <img src="assets/iShot_2026-05-04_02.05.41.png" alt="Model Selector" width="400">
+</p>
+
+### API Spend Dashboard
+
+Full terminal dashboard with patched provider icons, supporting both dark and light themes.
+
+| Dark Theme | Light Theme |
+|:---:|:---:|
+| <img src="assets/iShot_2026-05-04_02.10.10.png" width="420"> | <img src="assets/iShot_2026-05-04_02.06.09.png" width="420"> |
 
 ## Requirements
 
