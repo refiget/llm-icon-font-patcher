@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+# Generated artifacts
+out/
+*.patched.ttf
+*.patched.otf
+
+# Local/editor state
+.vscode/
+.idea/
+*.swp
