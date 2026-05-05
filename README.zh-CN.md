@@ -6,9 +6,35 @@
 
 ## 展示
 
-| tmux bar | 终端输出 |
-| --- | --- |
-| ![tmux bar](assets/image-20260503175403630.png) | ![终端输出](assets/image-20260503175929610.png) |
+在打补丁后的编程字体中使用 LLM 服务商图标，覆盖完整的终端工作流。
+
+### 图标总览
+
+全部 26 个 patched 图标一览。
+
+| 暗色主题 | 亮色主题 |
+|:---:|:---:|
+| <img src="assets/demo_dark.png" width="640"> | <img src="assets/demo_light.png" width="640"> |
+
+### 使用场景
+
+**Tmux 状态栏** —— 在状态栏中直接用图标实时追踪各模型的 API 花费。
+
+| 暗色主题 | 亮色主题 |
+|:---:|:---:|
+| <img src="assets/tmux_bar_dark.png" width="320"> | <img src="assets/tmux_bar_light.png" width="320"> |
+
+**模型选择器** —— 在交互式 TUI 中使用图标快速切换服务商。
+
+| 暗色主题 | 亮色主题 |
+|:---:|:---:|
+| <img src="assets/api_choser_dark.png" width="320"> | <img src="assets/api_choser_light.png" width="320"> |
+
+**API 花费看板** —— 完整的终端看板，带图标支持，兼容暗色和亮色主题。
+
+| 暗色主题 | 亮色主题 |
+|:---:|:---:|
+| <img src="assets/api_tracker_dark.png" width="320"> | <img src="assets/api_tracker_light.png" width="320"> |
 
 ## 依赖
 

@@ -10,39 +10,31 @@ Patch LLM provider icons into your coding font and use them throughout your term
 
 ### Icon Gallery
 
-All 26 patched icons at a glance — rendered inside a patched coding font. Works in both dark and light terminal themes.
+All 26 patched icons at a glance — rendered inside a patched coding font.
 
 | Dark Theme | Light Theme |
 |:---:|:---:|
-| <img src="assets/iShot_2026-05-04_02.18.05.png" width="460"> | <img src="assets/iShot_2026-05-04_02.17.53.png" width="460"> |
+| <img src="assets/demo_dark.png" width="640"> | <img src="assets/demo_light.png" width="640"> |
 
-### Tmux Status Bar
+### Usage Examples
 
-Track real-time API spend per model with patched icons directly in your status bar.
-
-<p align="center">
-  <img src="assets/iShot_2026-05-04_02.04.41.png" alt="Tmux Status Bar - Dark Theme" width="700">
-</p>
-
-<p align="center">
-  <img src="assets/iShot_2026-05-03_22.03.04.png" alt="Tmux Status Bar - Light Theme" width="700">
-</p>
-
-### Model Selector
-
-Use patched icons in interactive TUIs for quick provider switching.
-
-<p align="center">
-  <img src="assets/iShot_2026-05-04_02.05.41.png" alt="Model Selector" width="400">
-</p>
-
-### API Spend Dashboard
-
-Full terminal dashboard with patched provider icons, supporting both dark and light themes.
+**Tmux Status Bar** — Track real-time API spend per model with patched icons directly in your status bar.
 
 | Dark Theme | Light Theme |
 |:---:|:---:|
-| <img src="assets/iShot_2026-05-04_02.10.10.png" width="420"> | <img src="assets/iShot_2026-05-04_02.06.09.png" width="420"> |
+| <img src="assets/tmux_bar_dark.png" width="320"> | <img src="assets/tmux_bar_light.png" width="320"> |
+
+**Model Selector** — Use patched icons in interactive TUIs for quick provider switching.
+
+| Dark Theme | Light Theme |
+|:---:|:---:|
+| <img src="assets/api_choser_dark.png" width="320"> | <img src="assets/api_choser_light.png" width="320"> |
+
+**API Spend Dashboard** — Full terminal dashboard with patched provider icons, supporting both dark and light themes.
+
+| Dark Theme | Light Theme |
+|:---:|:---:|
+| <img src="assets/api_tracker_dark.png" width="320"> | <img src="assets/api_tracker_light.png" width="320"> |
 
 ## Requirements
 
