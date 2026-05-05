@@ -12,17 +12,25 @@ Patch LLM provider icons into your coding font and use them throughout your term
 
 All 26 patched icons at a glance — rendered inside a patched coding font.
 
-| Dark Theme | Light Theme |
-|:---:|:---:|
-| <img src="assets/demo_dark.png" width="640"> | <img src="assets/demo_light.png" width="640"> |
+<p align="center">
+  <img src="assets/demo_dark.png" alt="Icon Gallery - Dark Theme" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/demo_light.png" alt="Icon Gallery - Light Theme" width="800">
+</p>
 
 ### Usage Examples
 
 **Tmux Status Bar** — Track real-time API spend per model with patched icons directly in your status bar.
 
-| Dark Theme | Light Theme |
-|:---:|:---:|
-| <img src="assets/tmux_bar_dark.png" width="320"> | <img src="assets/tmux_bar_light.png" width="320"> |
+<p align="center">
+  <img src="assets/tmux_bar_dark.png" alt="Tmux Status Bar - Dark Theme" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/tmux_bar_light.png" alt="Tmux Status Bar - Light Theme" width="700">
+</p>
 
 **Model Selector** — Use patched icons in interactive TUIs for quick provider switching.
 

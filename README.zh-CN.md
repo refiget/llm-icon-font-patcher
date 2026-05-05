@@ -12,17 +12,25 @@
 
 全部 26 个 patched 图标一览。
 
-| 暗色主题 | 亮色主题 |
-|:---:|:---:|
-| <img src="assets/demo_dark.png" width="640"> | <img src="assets/demo_light.png" width="640"> |
+<p align="center">
+  <img src="assets/demo_dark.png" alt="图标总览 - 暗色主题" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/demo_light.png" alt="图标总览 - 亮色主题" width="800">
+</p>
 
 ### 使用场景
 
 **Tmux 状态栏** —— 在状态栏中直接用图标实时追踪各模型的 API 花费。
 
-| 暗色主题 | 亮色主题 |
-|:---:|:---:|
-| <img src="assets/tmux_bar_dark.png" width="320"> | <img src="assets/tmux_bar_light.png" width="320"> |
+<p align="center">
+  <img src="assets/tmux_bar_dark.png" alt="Tmux 状态栏 - 暗色主题" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/tmux_bar_light.png" alt="Tmux 状态栏 - 亮色主题" width="700">
+</p>
 
 **模型选择器** —— 在交互式 TUI 中使用图标快速切换服务商。
 
